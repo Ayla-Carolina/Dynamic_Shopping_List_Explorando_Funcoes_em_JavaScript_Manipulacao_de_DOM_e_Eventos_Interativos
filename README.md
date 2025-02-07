@@ -1,6 +1,6 @@
 # Dynamic Shopping List: Explorando Funções em JavaScript, Manipulação de DOM e Eventos Interativos
 
-## 📍Descrição do Projeto
+## 📍Descrição dos Projetos
 Modelo de projeto **dinâmico e interativo**, aplicando conceitos fundamentais de **JavaScripts** com foco no aprendizado de conceitos essenciais como **manipulação de DOM**, **eventos interativos**, **modularização de código** e **uso de objetos nativos**. A aplicação permite ao usuário adicionar itens à lista de compras e visualizar os detalhes, incluindo data, hora e interatividade com um **checkbox** para marcar itens como concluídos.
 
 
@@ -48,6 +48,10 @@ A etapa visual neste projeto não foi o foco. Com uma simples página, o foco es
 ![Screenshot 2025-01-28 171932](https://github.com/user-attachments/assets/c7097967-5e52-4532-a8f9-275a547bfc1b)
 ![Screenshot 2025-01-28 171958](https://github.com/user-attachments/assets/44859e16-bdbd-4db6-a53b-f854f144aa57)
 ![Screenshot 2025-01-28 172006](https://github.com/user-attachments/assets/e0ccfe8c-3e0e-4001-86cd-a8b1fbe4a416)
+
+#### Projeto 2: 
+Seguindo a mesma ideia do projeto 1. Este contém uma interface mais 'bonita' e alguns estilos a mais, como detalhes na listagem e uma funcionalidade que verifica se a palavra ou frase escrita já está inserida na lista. 
+![Screenshot 2025-02-07 010147](https://github.com/user-attachments/assets/e7d85cba-b09f-45be-af8f-59848ddbbc09)
 
 
 
