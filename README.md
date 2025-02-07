@@ -46,4 +46,9 @@ Através da técnica de **modularização** de código, os diferentes componente
 A etapa visual neste projeto não foi o foco. Com uma simples página, o foco estava nas funcionalidades necessárias, como o campos de inserção, botões e bloco para visualização das informações manipuladas. 
 
 ![Screenshot 2025-01-28 171932](https://github.com/user-attachments/assets/c7097967-5e52-4532-a8f9-275a547bfc1b)
+![Screenshot 2025-01-28 171958](https://github.com/user-attachments/assets/44859e16-bdbd-4db6-a53b-f854f144aa57)
+![Screenshot 2025-01-28 172006](https://github.com/user-attachments/assets/e0ccfe8c-3e0e-4001-86cd-a8b1fbe4a416)
+
+
+
 
