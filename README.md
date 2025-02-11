@@ -45,14 +45,11 @@ Através da técnica de **modularização** de código, os diferentes componente
 ### ✨ Visualização do Projeto e suas funcionalidades:
 A etapa visual neste projeto não foi o foco. Com uma simples página, o foco estava nas funcionalidades necessárias, como o campos de inserção, botões e bloco para visualização das informações manipuladas. 
 
-![Screenshot 2025-01-28 171932](https://github.com/user-attachments/assets/c7097967-5e52-4532-a8f9-275a547bfc1b)
-![Screenshot 2025-01-28 171958](https://github.com/user-attachments/assets/44859e16-bdbd-4db6-a53b-f854f144aa57)
-![Screenshot 2025-01-28 172006](https://github.com/user-attachments/assets/e0ccfe8c-3e0e-4001-86cd-a8b1fbe4a416)
 
-#### Projeto 2: 
-Seguindo a mesma ideia do projeto 1. Este contém uma interface mais 'bonita' e alguns estilos a mais, como detalhes na listagem e uma funcionalidade que verifica se a palavra ou frase escrita já está inserida na lista. 
-![Screenshot 2025-02-07 010147](https://github.com/user-attachments/assets/e7d85cba-b09f-45be-af8f-59848ddbbc09)
-
+![Screenshot 2025-02-10 234335](https://github.com/user-attachments/assets/370c0a65-31ca-496c-b0bc-eea7d49409aa)
+![Screenshot 2025-02-10 234326](https://github.com/user-attachments/assets/e56cbf14-0e85-4e72-ac3d-00f4b971affd)
+![Screenshot 2025-02-10 234355](https://github.com/user-attachments/assets/f328d082-d75a-40fd-8caf-ba7a56c1a2c1)
+![Screenshot 2025-02-10 234348](https://github.com/user-attachments/assets/4c9cf37b-5b73-4d44-98af-8bed676eaad1)
 
 
 
