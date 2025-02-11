@@ -2,34 +2,37 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Lista de Compras</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&family=Numans&display=swap"
-        rel="stylesheet" />
-    <link rel="stylesheet" href="./styles.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Card Challenge</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
-    <main>
-        <img src="./img/bag.png" alt="sacola de compras" />
-        <form>
-            <input class="input-item" id="input-item" type="text" placeholder="Digite o item que deseja adicionar" />
-            <button class="button-item" id="adicionar-item" type="button">Salvar item</button>
-        </form>
+    <div class="container">
+        <div class="card">
+            <div class="card-image">
+                <img src="./img/Cactus.jpg" alt="imagem de um cacto no card">
+            </div>
+            <span class="bottom-image-text">Design</span>
+            
+            <hr class="linha">            
+            <div class="container-lista">
+                <h2>Atividades do Dia:</h2>
+                <p id="dataAtual"> </p>
 
-        <div class="container-lista">
-            <h2 id="lista-de-compras-titulo">Lista de compras</h2>
-            <hr />
-
-            <ul id="lista-de-compras">
-                <p class="mensagem-lista-vazia">Não há nenhum item na lista no momento.</p>
-            </ul>
+                <div class="container-input">
+                    <input type="text" class="input" id="input-item" placeholder="O cacto é...">
+                    <button class="btn" type="submit" id="btnSalvar">Adicionar</button>
+                </div>
+                <div id="list">
+                    <ul class="list-card">
+                    </ul>
+                </div>
+            </div>
         </div>
-    </main>
-    <script  type="module" src="./scripts/index.js"></script>
+    </div>
+    <script type="module" src="./js/main.js"></script>
 </body>
 
 </html>
